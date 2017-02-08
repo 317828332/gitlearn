@@ -1,4 +1,6 @@
 First time using git,excited!
 git 大法好
+暂存区测试....
 有了git,妈妈再也不用担心写代码出错了
 并且可以跟好基友一起写
+暂时区测试2
